@@ -1,0 +1,432 @@
+[0m[0K]0;:/e/bibi-website[?25l
+[0;32mab604@ab604-proteome [0;35m [0;33m/e/bibi-website[0m[0K
+]0;:/e/bibi-website[?25l
+[0;32mab604@ab604-proteome [0;35m [0;33m/e/bibi-website[0m[0K
+$[0K[3G[?25h[?25l$ h[0K[?25hu[0Kg[0Ko[0K[8G[?25l$ hugo -[0K[?25hv[0K[?25l
+[0K[?25hINFO 2018/05/17 18:49:37 Using config file: E:\bibi-website\config.toml[0K[?25l
+?[?25lBuilding sites … INFO 2018/05/17 18:49:37 syncing static files to E:\bibi-website\public\[0K
+[0K[?25hERROR 2018/05/17 18:49:37 unable to read frontmatter at filepos 180: EOF[0K[?25l
++++[0K
+title = "Cats and owners interact more with each other after a longer duration of separation"[0K
+... for publication\2017-01-01_Cats_and_owners_inte.md[0K
+[0K[?25h?[KTotal in 299 ms[0K[?25l
+Error: Error building site: unable to read frontmatter at filepos 180: EOF[0K
++++[0K
+title = "Cats and owners interact more with each other after a longer duration of separation"[0K
+...[0K
+[0K[?25h[?25l
+[0;32mab604@ab604-proteome [0;35m [0;33m/e/bibi-website[0m[0K
+$[0K[3G[?25h[?25l$ hugo -v[0K[?25h[?25l
+[0K[?25hINFO 2018/05/17 18:50:23 Using config file: E:\bibi-website\config.toml[0K[?25l
+?[?25lBuilding sites … INFO 2018/05/17 18:50:23 syncing static files to E:\bibi-website\public\[0K
+[0K[?25hINFO 2018/05/17 18:50:23 found taxonomies: map[string]string{"tag":"tags", "category":"categories", [0K"[?25l
+publication_type":"publication_types"}[0K
+ERROR 2018/05/17 18:50:23 Please check that the `projects` parameter in the front matter of content [0Ki
+n `content/talk/` refers to an existing filename (without .md extension) of a published project.[0K
+INFO 2018/05/17 18:50:23 Alias "\tags\academic\page\1\index.html" translated to "tags\academic\page\[0K1
+\index.html"[0K
+ERROR 2018/05/17 18:50:23 Please check that the `projects` parameter in the front matter of content [0Ki
+n `content/publication/` refers to an existing filename (without .md extension) of a published proje[0Kc
+t.[0K
+[0K[?25hINFO 2018/05/17 18:50:23 Alias "\post\page\1\index.html" translated to "post\page\1\index.html"[0K[?25l
+INFO 2018/05/17 18:50:23 Alias "\publication_types\1\page\1\index.html" translated to "publication_t[0Ky
+pes\1\page\1\index.html"[0K
+INFO 2018/05/17 18:50:23 Alias "\tags\bags\page\1\index.html" translated to "tags\bags\page\1\index.[0Kh
+tml"[0K
+INFO 2018/05/17 18:50:23 Alias "\publication_types\2\page\1\index.html" translated to "publication_t[0Ky
+pes\2\page\1\index.html"[0K
+INFO 2018/05/17 18:50:23 Alias "\categories\page\1\index.html" translated to "categories\page\1\inde[0Kx
+.html"[0K
+INFO 2018/05/17 18:50:23 Alias "\tags\demo\page\1\index.html" translated to "tags\demo\page\1\index.[0Kh
+tml"[0K
+INFO 2018/05/17 18:50:23 Alias "\tags\plot\page\1\index.html" translated to "tags\plot\page\1\index.[0Kh
+tml"[0K
+INFO 2018/05/17 18:50:23 Alias "\publication_types\page\1\index.html" translated to "publication_typ[0Ke
+s\page\1\index.html"[0K
+INFO 2018/05/17 18:50:23 Alias "\tags\r-markdown\page\1\index.html" translated to "tags\r-markdown\p[0Ka
+ge\1\index.html"[0K
+INFO 2018/05/17 18:50:23 Alias "\categories\r\page\1\index.html" translated to "categories\r\page\1\[0Ki
+ndex.html"[0K
+INFO 2018/05/17 18:50:23 Alias "\tags\regression\page\1\index.html" translated to "tags\regression\p[0Ka
+ge\1\index.html"[0K
+INFO 2018/05/17 18:50:23 Alias "\tags\page\1\index.html" translated to "tags\page\1\index.html"[0K
+?[K25h[0K
+                   | EN[0K
++------------------+----+[0K
+  Pages            | 44[0K
+  Paginator pages  |  0[0K
+  Non-page files   |  0[0K
+  Static files     | 15[0K
+  Processed images |  0[0K
+  Aliases          | 13[0K
+  Sitemaps         |  1[0K
+  Cleaned          |  0[0K
+[0K
+Total in 332 ms[0K
+[0K[?25h[?25l
+[0;32mab604@ab604-proteome [0;35m [0;33m/e/bibi-website[0m[0K
+$[0K[3G[?25h[?25l[30AINFO 2018/05/17 18:50:23 Alias "\categories\page\1\index.html" translated to "categories\page\1\index.html"[0K
+INFO 2018/05/17 18:50:23 Alias "\tags\demo\page\1\index.html" translated to "tags\demo\page\1\index.html"[0K
+INFO 2018/05/17 18:50:23 Alias "\tags\plot\page\1\index.html" translated to "tags\plot\page\1\index.html"[0K
+INFO 2018/05/17 18:50:23 Alias "\publication_types\page\1\index.html" translated to "publication_types\page\[0K1
+\index.html"[0K
+INFO 2018/05/17 18:50:23 Alias "\tags\r-markdown\page\1\index.html" translated to "tags\r-markdown\page\1\in[0Kd
+ex.html"[0K
+INFO 2018/05/17 18:50:23 Alias "\categories\r\page\1\index.html" translated to "categories\r\page\1\index.ht[0Km
+l"[0K
+INFO 2018/05/17 18:50:23 Alias "\tags\regression\page\1\index.html" translated to "tags\regression\page\1\in[0Kd
+ex.html"[0K
+INFO 2018/05/17 18:50:23 Alias "\tags\page\1\index.html" translated to "tags\page\1\index.html"[0K
+?[K25h[0K
+                   | EN[0K
++------------------+----+[0K
+  Pages            | 44[0K
+  Paginator pages  |  0[0K
+  Non-page files   |  0[0K
+  Static files     | 15[0K
+  Processed images |  0[0K
+  Aliases          | 13[0K
+  Sitemaps         |  1[0K
+  Cleaned          |  0[0K
+[0K
+Total in 332 ms[0K
+[0K
+[0;32mab604@ab604-proteome [0;35m [0;33m/e/bibi-website[0K
+[0m$[0K
+[0K
+[0K
+[0K[3A[3G[?25h[?25l[27AINFO 2018/05/17 18:50:23 Alias "\categories\page\1\index.html" translated to "categories\page\1\index.htm[0Kl
+"[0K
+INFO 2018/05/17 18:50:23 Alias "\tags\demo\page\1\index.html" translated to "tags\demo\page\1\index.html"[0K
+INFO 2018/05/17 18:50:23 Alias "\tags\plot\page\1\index.html" translated to "tags\plot\page\1\index.html"[0K
+INFO 2018/05/17 18:50:23 Alias "\publication_types\page\1\index.html" translated to "publication_types\pa[0Kg
+e\1\index.html"[0K
+INFO 2018/05/17 18:50:23 Alias "\tags\r-markdown\page\1\index.html" translated to "tags\r-markdown\page\1[0K\
+index.html"[0K
+INFO 2018/05/17 18:50:23 Alias "\categories\r\page\1\index.html" translated to "categories\r\page\1\index[0K.
+html"[0K
+INFO 2018/05/17 18:50:23 Alias "\tags\regression\page\1\index.html" translated to "tags\regression\page\1[0K\
+index.html"[0K
+INFO 2018/05/17 18:50:23 Alias "\tags\page\1\index.html" translated to "tags\page\1\index.html"[0K
+?[K25h[0K
+                   | EN[0K
++------------------+----+[0K
+  Pages            | 44[0K
+  Paginator pages  |  0[0K
+  Non-page files   |  0[0K
+  Static files     | 15[0K
+  Processed images |  0[0K
+  Aliases          | 13[0K
+  Sitemaps         |  1[0K
+  Cleaned          |  0[0K
+[0K
+Total in 332 ms[0K
+[0K
+[0;32mab604@ab604-proteome [0;35m [0;33m/e/bibi-website[0K
+[0m$[0K
+[0K
+[0K[2A[3G[?25h[?25l$ hugo -v[0K
+[0K
+[0K[2A[10G[?25h[?25l
+[?25hINFO 2018/05/18 08:54:09 Using config file: E:\bibi-website\config.toml[0K[?25l
+?[?25lBuilding sites … INFO 2018/05/18 08:54:09 syncing static files to E:\bibi-website\public\[0K
+[0K[?25hINFO 2018/05/18 08:54:09 found taxonomies: map[string]string{"publication_type":"publication_types", "tag[0K"[?25l
+:"tags", "category":"categories"}[0K
+ERROR 2018/05/18 08:54:09 Please check that the `projects` parameter in the front matter of content in `c[0Ko
+ntent/talk/` refers to an existing filename (without .md extension) of a published project.[0K
+INFO 2018/05/18 08:54:09 Alias "\tags\academic\page\1\index.html" translated to "tags\academic\page\1\ind[0Ke
+x.html"[0K
+ERROR 2018/05/18 08:54:09 Please check that the `projects` parameter in the front matter of content in `c[0Ko
+ntent/publication/` refers to an existing filename (without .md extension) of a published project.[0K
+INFO 2018/05/18 08:54:09 Alias "\post\page\1\index.html" translated to "post\page\1\index.html"[0K
+[0K[?25hINFO 2018/05/18 08:54:09 Alias "\publication_types\1\page\1\index.html" translated to "publication_types\[0K1[?25l
+\page\1\index.html"[0K
+INFO 2018/05/18 08:54:09 Alias "\tags\bags\page\1\index.html" translated to "tags\bags\page\1\index.html"[0K
+INFO 2018/05/18 08:54:09 Alias "\publication_types\2\page\1\index.html" translated to "publication_types\[0K2
+\page\1\index.html"[0K
+INFO 2018/05/18 08:54:09 Alias "\categories\page\1\index.html" translated to "categories\page\1\index.htm[0Kl
+"[0K
+INFO 2018/05/18 08:54:09 Alias "\tags\demo\page\1\index.html" translated to "tags\demo\page\1\index.html"[0K
+INFO 2018/05/18 08:54:09 Alias "\tags\plot\page\1\index.html" translated to "tags\plot\page\1\index.html"[0K
+INFO 2018/05/18 08:54:09 Alias "\publication_types\page\1\index.html" translated to "publication_types\pa[0Kg
+e\1\index.html"[0K
+INFO 2018/05/18 08:54:09 Alias "\tags\r-markdown\page\1\index.html" translated to "tags\r-markdown\page\1[0K\
+index.html"[0K
+INFO 2018/05/18 08:54:09 Alias "\categories\r\page\1\index.html" translated to "categories\r\page\1\index[0K.
+html"[0K
+INFO 2018/05/18 08:54:09 Alias "\tags\regression\page\1\index.html" translated to "tags\regression\page\1[0K\
+index.html"[0K
+INFO 2018/05/18 08:54:09 Alias "\tags\page\1\index.html" translated to "tags\page\1\index.html"[0K
+?[K25h[0K
+                   | EN[0K
++------------------+----+[0K
+  Pages            | 44[0K
+  Paginator pages  |  0[0K
+  Non-page files   |  0[0K
+  Static files     | 15[0K
+  Processed images |  0[0K
+  Aliases          | 13[0K
+  Sitemaps         |  1[0K
+  Cleaned          |  0[0K
+[0K
+Total in 340 ms[0K
+[0K[?25h[?25l
+[0;32mab604@ab604-proteome [0;35m [0;33m/e/bibi-website[0m[0K
+$[0K[3G[?25h[?25l$ hugo -v[0K[?25h[?25l
+[0K[?25hINFO 2018/05/18 08:56:54 Using config file: E:\bibi-website\config.toml[0K[?25l
+?[?25lBuilding sites … INFO 2018/05/18 08:56:54 syncing static files to E:\bibi-website\public\[0K
+[0K[?25hINFO 2018/05/18 08:56:54 found taxonomies: map[string]string{"category":"categories", "publication_type":[0K"[?25l
+publication_types", "tag":"tags"}[0K
+[0K[?25hINFO 2018/05/18 08:56:54 Alias "\tags\academic\page\1\index.html" translated to "tags\academic\page\1\ind[0Ke[?25l
+x.html"[0K
+ERROR 2018/05/18 08:56:54 Please check that the `projects` parameter in the front matter of content in `c[0Ko
+ntent/publication/` refers to an existing filename (without .md extension) of a published project.[0K
+INFO 2018/05/18 08:56:54 Alias "\post\page\1\index.html" translated to "post\page\1\index.html"[0K
+INFO 2018/05/18 08:56:54 Alias "\publication_types\1\page\1\index.html" translated to "publication_types\[0K1
+\page\1\index.html"[0K
+INFO 2018/05/18 08:56:54 Alias "\publication_types\2\page\1\index.html" translated to "publication_types\[0K2
+\page\1\index.html"[0K
+INFO 2018/05/18 08:56:54 Alias "\tags\bags\page\1\index.html" translated to "tags\bags\page\1\index.html"[0K
+INFO 2018/05/18 08:56:54 Alias "\categories\page\1\index.html" translated to "categories\page\1\index.htm[0Kl
+"[0K
+INFO 2018/05/18 08:56:54 Alias "\tags\demo\page\1\index.html" translated to "tags\demo\page\1\index.html"[0K
+INFO 2018/05/18 08:56:54 Alias "\tags\plot\page\1\index.html" translated to "tags\plot\page\1\index.html"[0K
+INFO 2018/05/18 08:56:54 Alias "\publication_types\page\1\index.html" translated to "publication_types\pa[0Kg
+e\1\index.html"[0K
+INFO 2018/05/18 08:56:54 Alias "\tags\r-markdown\page\1\index.html" translated to "tags\r-markdown\page\1[0K\
+index.html"[0K
+INFO 2018/05/18 08:56:54 Alias "\categories\r\page\1\index.html" translated to "categories\r\page\1\index[0K.
+html"[0K
+INFO 2018/05/18 08:56:54 Alias "\tags\regression\page\1\index.html" translated to "tags\regression\page\1[0K\
+index.html"[0K
+INFO 2018/05/18 08:56:54 Alias "\tags\page\1\index.html" translated to "tags\page\1\index.html"[0K
+?[K25h[0K
+                   | EN[0K
++------------------+----+[0K
+  Pages            | 44[0K
+  Paginator pages  |  0[0K
+  Non-page files   |  0[0K
+  Static files     | 15[0K
+  Processed images |  0[0K
+  Aliases          | 13[0K
+  Sitemaps         |  1[0K
+  Cleaned          |  0[0K
+[0K
+Total in 337 ms[0K
+[0K[?25h[?25l
+[0;32mab604@ab604-proteome [0;35m [0;33m/e/bibi-website[0m[0K
+$[0K[3G[?25h[?25l$ hugo -v[0K[?25h[?25l
+[0K[?25hINFO 2018/05/18 09:01:31 Using config file: E:\bibi-website\config.toml[0K[?25l
+?[?25lBuilding sites … INFO 2018/05/18 09:01:31 syncing static files to E:\bibi-website\public\[0K
+[0K[?25hINFO 2018/05/18 09:01:31 found taxonomies: map[string]string{"category":"categories", "publication_type":[0K"[?25l
+publication_types", "tag":"tags"}[0K
+INFO 2018/05/18 09:01:31 Alias "\tags\academic\page\1\index.html" translated to "tags\academic\page\1\ind[0Ke
+x.html"[0K
+INFO 2018/05/18 09:01:31 Alias "\post\page\1\index.html" translated to "post\page\1\index.html"[0K
+INFO 2018/05/18 09:01:31 Alias "\publication_types\1\page\1\index.html" translated to "publication_types\[0K1
+\page\1\index.html"[0K
+INFO 2018/05/18 09:01:31 Alias "\tags\bags\page\1\index.html" translated to "tags\bags\page\1\index.html"[0K
+INFO 2018/05/18 09:01:31 Alias "\publication_types\2\page\1\index.html" translated to "publication_types\[0K2
+\page\1\index.html"[0K
+INFO 2018/05/18 09:01:31 Alias "\categories\page\1\index.html" translated to "categories\page\1\index.htm[0Kl
+"[0K
+INFO 2018/05/18 09:01:31 Alias "\tags\demo\page\1\index.html" translated to "tags\demo\page\1\index.html"[0K
+[0K[?25hINFO 2018/05/18 09:01:31 Alias "\tags\plot\page\1\index.html" translated to "tags\plot\page\1\index.html"[0K[?25l
+ERROR 2018/05/18 09:01:31 Error while rendering "home" in "": template: theme/index.html:1:3: executing "[0Kt
+heme/index.html" at <partial "widget_page...>: error calling partial: template: theme/partials/widget_pag[0Ke
+.html:23:9: executing "theme/partials/widget_page.html" at <partial $widget $par...>: error calling parti[0Ka
+l: template: theme/partials/widgets/publications_selected.html:22:11: executing "theme/partials/widgets/p[0Ku
+blications_selected.html" at <partial "publication...>: error calling partial: template: theme/partials/p[0Ku
+blication_li_detailed.html:29:26: executing "theme/partials/publication_li_detailed.html" at <markdownify[0K>
+: wrong number of args for markdownify: want 1 got 0[0K
+[0K[?25h[?25l
+[0;32mab604@ab604-proteome [0;35m [0;33m/e/bibi-website[0m[0K
+$[0K[3G[?25h[?25l$ c[0K[?25hp[0K[6G[?25l$ cp .[0K[?25h.[0K/[0Ka[0Kc[0K[?25l
+academic-website/ accelerator/[0K
+[0K
+[0;32mab604@ab604-proteome [0;35m [0;33m/e/bibi-website[0m[0K
+$ cp ../ac[0K[?25h[?25l
+academic-website/ accelerator/[0K
+[0K
+[0;32mab604@ab604-proteome [0;35m [0;33m/e/bibi-website[0m[0K
+$ cp ../ac[0K[?25hd[0K[?25l$ cp ../ac[0K[?25ha[0Kd[0Kemic-website/[0Kb[0Ki[0Kb[0K[?25l$ cp ../academic-website/bi[0K[?25h[?25l$ cp ../academic-website/b[0K[?25h[?25l$ cp ../academic-website/[0K[?25hc[0Ko[0Kn[0Kt[0Kent/[0Kp[0Ku[0Kblication/[0Kb[0Ki[0Kbtex_2academic.R[0K[65G[?25l$ cp ../academic-website/content/publication/bibtex_2academic.R .[0K[?25h/[0K[?25l
+[0K[?25h[?25l
+[0;32mab604@ab604-proteome [0;35m [0;33m/e/bibi-website[0m[0K
+$[0K[3G[?25h[?25l$ cp ../academic-website/content/publication/bibtex_2academic.R ./[0K[?25h[?25l$ hugo -v[0K[?25h[?25l
+[0K[?25hINFO 2018/05/18 10:22:45 Using config file: E:\bibi-website\config.toml[0K[?25l
+?[?25lBuilding sites … INFO 2018/05/18 10:22:45 syncing static files to E:\bibi-website\public\[0K
+[0K[?25hINFO 2018/05/18 10:22:45 found taxonomies: map[string]string{"tag":"tags", "category":"categories", "publ[0Ki[?25l
+cation_type":"publication_types"}[0K
+INFO 2018/05/18 10:22:45 Alias "\tags\academic\page\1\index.html" translated to "tags\academic\page\1\ind[0Ke
+x.html"[0K
+INFO 2018/05/18 10:22:45 Alias "\post\page\1\index.html" translated to "post\page\1\index.html"[0K
+INFO 2018/05/18 10:22:45 Alias "\publication_types\2\page\1\index.html" translated to "publication_types\[0K2
+\page\1\index.html"[0K
+INFO 2018/05/18 10:22:45 Alias "\tags\bags\page\1\index.html" translated to "tags\bags\page\1\index.html"[0K
+INFO 2018/05/18 10:22:45 Alias "\tags\demo\page\1\index.html" translated to "tags\demo\page\1\index.html"[0K
+INFO 2018/05/18 10:22:45 Alias "\categories\page\1\index.html" translated to "categories\page\1\index.htm[0Kl
+"[0K
+INFO 2018/05/18 10:22:45 Alias "\tags\plot\page\1\index.html" translated to "tags\plot\page\1\index.html"[0K
+INFO 2018/05/18 10:22:45 Alias "\publication_types\page\1\index.html" translated to "publication_types\pa[0Kg
+e\1\index.html"[0K
+INFO 2018/05/18 10:22:45 Alias "\categories\r\page\1\index.html" translated to "categories\r\page\1\index[0K.
+html"[0K
+INFO 2018/05/18 10:22:45 Alias "\tags\r-markdown\page\1\index.html" translated to "tags\r-markdown\page\1[0K\
+index.html"[0K
+INFO 2018/05/18 10:22:45 Alias "\tags\regression\page\1\index.html" translated to "tags\regression\page\1[0K\
+index.html"[0K
+INFO 2018/05/18 10:22:45 Alias "\tags\page\1\index.html" translated to "tags\page\1\index.html"[0K
+[0K[?25h?[K25h[0K[?25l
+                   | EN[0K
++------------------+----+[0K
+  Pages            | 40[0K
+  Paginator pages  |  0[0K
+  Non-page files   |  0[0K
+  Static files     | 15[0K
+  Processed images |  0[0K
+  Aliases          | 12[0K
+  Sitemaps         |  1[0K
+  Cleaned          |  0[0K
+[0K
+Total in 333 ms[0K
+[0K[?25h[?25l
+[0;32mab604@ab604-proteome [0;35m [0;33m/e/bibi-website[0m[0K
+$[0K[3G[?25h[?25l[31AINFO 2018/05/18 10:22:45 Alias "\publication_types\2\page\1\index.html" translated to "publication_types\2\page\1\in[0Kd
+ex.html"[0K
+INFO 2018/05/18 10:22:45 Alias "\tags\bags\page\1\index.html" translated to "tags\bags\page\1\index.html"[0K
+INFO 2018/05/18 10:22:45 Alias "\tags\demo\page\1\index.html" translated to "tags\demo\page\1\index.html"[0K
+INFO 2018/05/18 10:22:45 Alias "\categories\page\1\index.html" translated to "categories\page\1\index.html"[0K
+INFO 2018/05/18 10:22:45 Alias "\tags\plot\page\1\index.html" translated to "tags\plot\page\1\index.html"[0K
+INFO 2018/05/18 10:22:45 Alias "\publication_types\page\1\index.html" translated to "publication_types\page\1\index.[0Kh
+tml"[0K
+INFO 2018/05/18 10:22:45 Alias "\categories\r\page\1\index.html" translated to "categories\r\page\1\index.html"[0K
+INFO 2018/05/18 10:22:45 Alias "\tags\r-markdown\page\1\index.html" translated to "tags\r-markdown\page\1\index.html[0K"
+[0K
+INFO 2018/05/18 10:22:45 Alias "\tags\regression\page\1\index.html" translated to "tags\regression\page\1\index.html[0K"
+[0K
+INFO 2018/05/18 10:22:45 Alias "\tags\page\1\index.html" translated to "tags\page\1\index.html"[0K
+?[K25h[0K
+                   | EN[0K
++------------------+----+[0K
+  Pages            | 40[0K
+  Paginator pages  |  0[0K
+  Non-page files   |  0[0K
+  Static files     | 15[0K
+  Processed images |  0[0K
+  Aliases          | 12[0K
+  Sitemaps         |  1[0K
+  Cleaned          |  0[0K
+[0K
+Total in 333 ms[0K
+[0K
+[0;32mab604@ab604-proteome [0;35m [0;33m/e/bibi-website[0K
+[0m$[0K
+[0K
+[0K[2A[3G[?25h[?25l[29AINFO 2018/05/18 10:22:45 Alias "\publication_types\2\page\1\index.html" translated to "publication_types\2\page\1\index.html"[0K
+INFO 2018/05/18 10:22:45 Alias "\tags\bags\page\1\index.html" translated to "tags\bags\page\1\index.html"[0K
+INFO 2018/05/18 10:22:45 Alias "\tags\demo\page\1\index.html" translated to "tags\demo\page\1\index.html"[0K
+INFO 2018/05/18 10:22:45 Alias "\categories\page\1\index.html" translated to "categories\page\1\index.html"[0K
+INFO 2018/05/18 10:22:45 Alias "\tags\plot\page\1\index.html" translated to "tags\plot\page\1\index.html"[0K
+INFO 2018/05/18 10:22:45 Alias "\publication_types\page\1\index.html" translated to "publication_types\page\1\index.html"[0K
+INFO 2018/05/18 10:22:45 Alias "\categories\r\page\1\index.html" translated to "categories\r\page\1\index.html"[0K
+INFO 2018/05/18 10:22:45 Alias "\tags\r-markdown\page\1\index.html" translated to "tags\r-markdown\page\1\index.html"[0K
+INFO 2018/05/18 10:22:45 Alias "\tags\regression\page\1\index.html" translated to "tags\regression\page\1\index.html"[0K
+INFO 2018/05/18 10:22:45 Alias "\tags\page\1\index.html" translated to "tags\page\1\index.html"[0K
+?[K25h[0K
+                   | EN[0K
++------------------+----+[0K
+  Pages            | 40[0K
+  Paginator pages  |  0[0K
+  Non-page files   |  0[0K
+  Static files     | 15[0K
+  Processed images |  0[0K
+  Aliases          | 12[0K
+  Sitemaps         |  1[0K
+  Cleaned          |  0[0K
+[0K
+Total in 333 ms[0K
+[0K
+[0;32mab604@ab604-proteome [0;35m [0;33m/e/bibi-website[0K
+[0m$[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K[6A[3G[?25h[?25l[25AINFO 2018/05/18 10:22:45 Alias "\publication_types\2\page\1\index.html" translated to "pu[0Kb
+lication_types\2\page\1\index.html"[0K
+INFO 2018/05/18 10:22:45 Alias "\tags\bags\page\1\index.html" translated to "tags\bags\pa[0Kg
+e\1\index.html"[0K
+INFO 2018/05/18 10:22:45 Alias "\tags\demo\page\1\index.html" translated to "tags\demo\pa[0Kg
+e\1\index.html"[0K
+INFO 2018/05/18 10:22:45 Alias "\categories\page\1\index.html" translated to "categories\[0Kp
+age\1\index.html"[0K
+INFO 2018/05/18 10:22:45 Alias "\tags\plot\page\1\index.html" translated to "tags\plot\pa[0Kg
+e\1\index.html"[0K
+INFO 2018/05/18 10:22:45 Alias "\publication_types\page\1\index.html" translated to "publ[0Ki
+cation_types\page\1\index.html"[0K
+INFO 2018/05/18 10:22:45 Alias "\categories\r\page\1\index.html" translated to "categorie[0Ks
+\r\page\1\index.html"[0K
+INFO 2018/05/18 10:22:45 Alias "\tags\r-markdown\page\1\index.html" translated to "tags\r[0K-
+markdown\page\1\index.html"[0K
+INFO 2018/05/18 10:22:45 Alias "\tags\regression\page\1\index.html" translated to "tags\r[0Ke
+gression\page\1\index.html"[0K
+INFO 2018/05/18 10:22:45 Alias "\tags\page\1\index.html" translated to "tags\page\1\index[0K.
+html"[0K
+?[K25h[0K
+                   | EN[0K
++------------------+----+[0K
+  Pages            | 40[0K
+  Paginator pages  |  0[0K
+  Non-page files   |  0[0K
+  Static files     | 15[0K
+  Processed images |  0[0K
+  Aliases          | 12[0K
+  Sitemaps         |  1[0K
+  Cleaned          |  0[0K
+[0K
+Total in 333 ms[0K
+[0K
+[0;32mab604@ab604-proteome [0;35m [0;33m/e/bibi-website[0K
+[0m$[0K[3G[?25h[?25l[25AINFO 2018/05/18 10:22:45 Alias "\publication_types\page\1\index.html" translated to [0K"
+publication_types\page\1\index.html"[0K
+INFO 2018/05/18 10:22:45 Alias "\categories\r\page\1\index.html" translated to "cate[0Kg
+ories\r\page\1\index.html"[0K
+INFO 2018/05/18 10:22:45 Alias "\tags\r-markdown\page\1\index.html" translated to "t[0Ka
+gs\r-markdown\page\1\index.html"[0K
+INFO 2018/05/18 10:22:45 Alias "\tags\regression\page\1\index.html" translated to "t[0Ka
+gs\regression\page\1\index.html"[0K
+INFO 2018/05/18 10:22:45 Alias "\tags\page\1\index.html" translated to "tags\page\1\[0Ki
+ndex.html"[0K
+?[K25h[0K
+                   | EN[0K
++------------------+----+[0K
+  Pages            | 40[0K
+  Paginator pages  |  0[0K
+  Non-page files   |  0[0K
+  Static files     | 15[0K
+  Processed images |  0[0K
+  Aliases          | 12[0K
+  Sitemaps         |  1[0K
+  Cleaned          |  0[0K
+[0K
+Total in 333 ms[0K
+[0K
+[0;32mab604@ab604-proteome [0;35m [0;33m/e/bibi-website[0K
+[0m$[0K[3G[?25h[0m[0K]0;:/e/bibi-website[?25l
+[0;32mab604@ab604-proteome [0;35m [0;33m/e/bibi-website[0m[0K
+[?25l[1A[0;32mab604@ab604-proteome [0;35m [0;33m/e/bibi-website[0K
+[0m$[0K[3G[?25h[?25l$ g[0K[?25hi[0Kt[0K[7G[?25l$ git i[0K[?25hn[0Ki[0Kt[0K[?25l
+[0K[?25hInitialized empty Git repository in E:/bibi-website/.git/[0K[?25l
+[0K[?25h[?25l
+[0;32mab604@ab604-proteome [0;35m [0;33m/e/bibi-website[0;36m (master)[0m[0K
+$[0K[3G[?25h[?25l$ g[0K[?25hi[0Kt[0K[7G[?25l$ git r[0K[?25he[0Km[0Ko[0Kt[0Ke[0K[14G[?25l$ git remote a[0K[?25hd[0Kd[0K[18G[19G[?25l$ git remote add  g[0K[?25hi[0Kt[0K@[0Kg[0Ki[0Kt[0Kh[0Ky[0Kb[0K[?25l$ git remote add  git@githy[0K[?25h[?25l$ git remote add  git@gith[0K[?25h[?25l$ git remote add  git@git[0K[?25hh[0Ku[0Kb[0K.[0Kc[0Ko[0Km[0K:[0Ka[0Kb[0K6[0K0[0K4[0K/[0Kb[0Ki[0Kb[0Ki[0K-[0Kw[0Ke[0Kb[0Ks[0Ki[0Kt[0Ke[0K.[0Kg[0Ki[0Kt[0K[55G[54G[53G[52G[51G[50G[49G[48G[47G[46G[45G[44G[43G[42G[41G[39G[38G[37G[36G[35G[34G[33G[32G[31G[30G[29G[28G[27G[26G[25G[24G[23G[22G[21G[20G[19G[18G[?25l$ git remote add o git@github.com:ab604/bibi-website.git[0K[19G[?25h[?25l$ git remote add or git@github.com:ab604/bibi-website.git[0K[20G[?25h[?25l$ git remote add ori git@github.com:ab604/bibi-website.git[0K[21G[?25h[?25l$ git remote add orig git@github.com:ab604/bibi-website.git[0K[22G[?25h[?25l$ git remote add origi git@github.com:ab604/bibi-website.git[0K[23G[?25h[?25l$ git remote add origin git@github.com:ab604/bibi-website.git[0K[24G[?25h[?25l$ git remote add origin  git@github.com:ab604/bibi-website.git[0K[25G[?25h[?25l$ git remote add origin git@github.com:ab604/bibi-website.git[0K[24G[?25h[?25l
+[0K[?25h[?25l
+[0;32mab604@ab604-proteome [0;35m [0;33m/e/bibi-website[0;36m (master)[0m[0K
+$[0K[3G[?25h[?25l$ g[0K[?25hi[0Kt[0K[7G[?25l$ git p[0K[?25hu[0Ks[0Kh[0K[12G[?25l$ git push -[0K[12G[?25h[13G[?25l$ git push -u[0K[?25h[15G[?25l$ git push -u o[0K[?25hr[0Ki[0Kg[0Ki[0Kn[0K[22G[?25l$ git push -u origin m[0K[?25ha[0Ks[0Kt[0Ke[0Kr[0K[?25l
+[0K[?25herror: src refspec master does not match any.[0K[?25l
+error: failed to push some refs to 'git@github.com:ab604/bibi-website.git'[0K
+[0K[?25h[?25l
+[0;32mab604@ab604-proteome [0;35m [0;33m/e/bibi-website[0;36m (master)[0m[0K
+$[0K[3G[?25h[?25l$ g[0K[?25hi[0Kt[0K[7G[?25l$ git a[0K[?25hd[0Kd[0K[11G[?25l$ git add .[0K[?25h[?25l
+[0K[?25h

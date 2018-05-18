@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1526475362988.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "193FFDCA",
+    "lastKnownWriteTime" : 1526632060,
+    "last_content_update" : 1526632060361,
+    "path" : "E://bibi-website/config.toml",
+    "project_path" : "config.toml",
+    "properties" : {
+        "cursorPosition" : "34,0",
+        "scrollLine" : "0"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "toml"
+}
